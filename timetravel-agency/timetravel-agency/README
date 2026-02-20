@@ -1,0 +1,32 @@
+# TimeTravel Agency — Webapp Interactive
+
+Webapp immersive pour une agence fictive de voyage temporel (projet pédagogique).
+Objectif : découvrir 3 destinations, interagir avec un agent conversationnel, personnaliser son choix et (optionnel) simuler une réservation.
+
+## 🛠️ Stack
+- React (Next.js)
+- Tailwind CSS
+- (Optionnel) Framer Motion
+- Chatbot : mock local OU API (Mistral / Groq / OpenRouter)
+
+## ✨ Fonctionnalités
+- Landing page (hero animé, présentation agence, galerie destinations)
+- 3 destinations : Paris 1889, Crétacé -65M, Florence 1504
+- Pages détail par destination (infos, conseils, itinéraires, prix)
+- Widget chatbot IA (conseils + FAQ + recommandations)
+- (Optionnel) Quiz de recommandation / Formulaire de réservation
+
+## 🤖 IA utilisées (transparence)
+- Génération du code : (Bolt.new / v0.dev / Cursor / etc.)
+- Chatbot : (Mock local / API choisie)
+- Visuels : (vos outils du projet 1 + crédits)
+
+## ▶️ Installation (si repo)
+npm install
+npm run dev
+
+## 📦 Déploiement
+- Vercel / Netlify / GitHub Pages (selon votre choix)
+
+## 📄 Licence
+Projet pédagogique — usage non commercial.
